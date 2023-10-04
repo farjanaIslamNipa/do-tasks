@@ -79,6 +79,11 @@ a{
 .text-underline{
   text-decoration: underline !important;
 }
+@media(max-width:991px){
+  .brand-logo{
+    height: 42px !important;
+  }
+}
 @media(max-width:767px){
   .text-small{
     font-size: 17px;

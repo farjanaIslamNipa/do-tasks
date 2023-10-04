@@ -38,7 +38,7 @@
                     <NuxtLink class="menu-link" to="/categories">Categories</NuxtLink>
                   </li>
                   <li class="menu-item" @click="closeSideNav">
-                    <NuxtLink class="menu-link" to="/find-task">Find Tasks</NuxtLink>
+                    <NuxtLink class="menu-link" to="/find-tasks">Find Tasks</NuxtLink>
                   </li>
                   <li class="menu-item" @click="closeSideNav">
                     <NuxtLink class="menu-link" to="/how-it-works" >How it works</NuxtLink>
@@ -408,7 +408,7 @@ a.nuxt-link-exact-active {
 
 @media (max-width:991px) {
   .primary-nav {
-    padding: 20px 0;
+    padding: 16px 0;
   }
 
   .hamburger-icon {
