@@ -1,0 +1,198 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
+
+
+/* Setting global css variables */
+body{
+  --fontJosefin: 'Josefin Sans', sans-serif !important;
+  --brandColor: #662D91;
+  --purpleLight: #662d9180;
+  --purpleLighter: #662d910d;
+  --lime: #8DC63F;
+  --limeLighter: #F4FAEE;
+}
+
+body{
+  font-family: var(--fontJosefin) !important;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+/* Default link style */
+a{
+  text-decoration: none !important;
+}
+
+/* Default font styles */
+.text-brand{
+  color: var(--brandColor);
+}
+.text-purple-light{
+  color: var(--purpleLight);
+}
+.text-gray{
+  color: #52575c;
+}
+.text-light-gray{
+  color: #a0a0a0;
+}
+.text-lime{
+  color: var(--lime);
+}
+.text-josefin{
+  font-family: var(--fontJosefin) !important;
+}
+
+.text-200{
+  font-weight: 200 !important;
+}
+.text-300{
+  font-weight: 300 !important;
+}
+.text-400{
+  font-weight: 400 !important;
+}
+.text-500{
+  font-weight: 500 !important;
+}
+.text-600{
+  font-weight: 600 !important;
+}
+
+.text-18{
+  font-size: 18px;
+}
+.text-15{
+  font-size: 15px !important;
+}
+.text-14{
+  font-size: 14px !important;
+}
+.text-12{
+  font-size: 12px !important;
+}
+.text-10{
+  font-size: 10px !important;
+}
+
+.text-underline{
+  text-decoration: underline !important;
+}
+@media(max-width:767px){
+  .text-small{
+    font-size: 17px;
+  }
+  .brand-logo{
+    height: 40px;
+  }
+}
+@media(max-width:575px){
+  .text-header-small{
+    font-size: 28px;
+  }
+  .button-small{
+    font-size: 15px !important;
+  }
+}
+
+.text-extra-large{
+  font-size: 50px;
+}
+
+.card-shadow{
+  box-shadow: #9668b83b 0px 2px 8px 0px;
+}
+
+/* Background style */
+.bg-brand{
+  background-color: var(--brandColor);
+}
+.bg-purple-light{
+  background-color: var(--purpleLight);
+}
+.bg-purple-lighter{
+  background-color: var(--purpleLighter);
+}
+.bg-lime{
+  background-color: var(--lime);
+}
+.bg-lime-lighter {
+  background-color: var(--limeLighter);
+}
+.line-height-0 {
+  line-height: 0 !important;
+}
+.line-height-1 {
+  line-height: 1 !important;
+}
+.cursor-pointer{
+  cursor: pointer !important;
+}
+.gray-line{
+  border-top: 1px solid #9e9e9e;
+}
+/* Default button styles */
+button:focus{
+  box-shadow: none !important;
+  outline: none !important;
+}
+.rounded-fill-btn {
+  background-color: var(--brandColor);
+  border: 2px solid var(--brandColor);
+  color: white !important;
+  text-transform: capitalize;
+  border-radius: 30px;
+  font-weight: 600;
+  padding: 12px 35px;
+  transition: all 0.3s ease;
+  font-size: 17px;
+}
+
+.rounded-fill-btn:hover{
+  background-color: var(--purpleLighter);
+  color: var(--brandColor) !important;
+}
+
+.rounded-outline-btn {
+  background-color: var(--purpleLighter);
+  border: 2px solid var(--purpleLight);
+  color: var(--brandColor);
+  text-transform: capitalize;
+  font-weight: 600;
+  border-radius: 30px;
+  padding: 12px 35px;
+  transition: all 0.3s ease;
+  font-size: 17px;
+}
+
+.rounded-outline-btn:hover {
+  color: var(--brandColor) !important;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+/* Default form element settings */
+input:focus, select:focus, textarea:focus{
+  box-shadow: none !important;
+}
+
+.vdp-datepicker__calendar .cell.selected {
+  background: var(--brandColor) !important;
+  color: white !important;
+}
+.vdp-datepicker__calendar .cell:hover{
+  border: 1px solid var(--brandColor) !important;
+}
+.vdp-datepicker input{
+  border: none !important;
+  width: 100%;
+  cursor: pointer;
+}
+.vdp-datepicker input:focus{
+  outline: none !important;
+}
+/* Remove textarea bottom resizer */
+.textarea-resize {
+  resize: none;
+}
+
