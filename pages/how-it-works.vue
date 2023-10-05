@@ -165,7 +165,7 @@
               </div>
               <div class="pt-2 pb-4">
                 <NuxtLink to="/sign-up" class="rounded-fill-btn py-2 me-sm-3 me-1 joint-btn">Join DoTask</NuxtLink>
-                <NuxtLink to="/earn-money" class="rounded-outline-btn py-2 earn-money-btn">Earn money </NuxtLink>
+                <NuxtLink to="/become-a-tasker" class="rounded-outline-btn py-2 earn-money-btn">Earn money </NuxtLink>
               </div>
               <small>*Terms and Conditions apply. Included Task activities only. Excesses apply for Taskers. Learn more about Airtasker Insurance</small>
             </div>
