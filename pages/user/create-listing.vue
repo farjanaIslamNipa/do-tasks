@@ -38,6 +38,8 @@ import {ref, } from 'vue';
 import CreateListingStepOne from '@/components/create-listing/StepOne.vue';
 import CreateListingStepTwo from '@/components/create-listing/StepTwo.vue';
 import CreateListingStepThree from '@/components/create-listing/StepThree.vue';
+import CreateListingStepFour from '@/components/create-listing/StepFour.vue';
+import CreateListingStepFive from '@/components/create-listing/StepFive.vue';
 
 const currentComponent = ref(CreateListingStepOne)
 
