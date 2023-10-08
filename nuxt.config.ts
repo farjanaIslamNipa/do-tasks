@@ -98,4 +98,13 @@ export default defineNuxtConfig({
     quality: 80,
     format: ['webp']
   },
+  hooks: {
+    'pages:extend': (pages) => {
+      pages.push({
+        name: 'profile',
+        path: '/profile',
+        file: '@/pages/user/profile.vue',
+      });
+    }
+  }
 })

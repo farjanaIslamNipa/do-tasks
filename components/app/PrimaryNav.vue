@@ -66,7 +66,7 @@
                 <ul class="m-0 p-0 list-unstyled">
                   <li class="menu-item mx-1" @click="closeSideNav"><NuxtLink class="menu-link" to="/sign-up">Sign up</NuxtLink></li>
                   <li class="menu-item ms-2 me-3" @click="closeSideNav"><NuxtLink class="menu-link" to="/login">Login</NuxtLink></li>
-                  <li  class="menu-item me-0 ms-0" @click="closeSideNav"><NuxtLink id="become-tasker" class="become-a-tasker-btn" to="/earn-money">Become a Tasker</NuxtLink></li>
+                  <li  class="menu-item me-0 ms-0" @click="closeSideNav"><NuxtLink id="become-tasker" class="become-a-tasker-btn" to="/become-a-tasker">Become a Tasker</NuxtLink></li>
                 </ul>
 
                 <!-- WEB VIEW SECTION FOR LOGGED IN USER START  -->

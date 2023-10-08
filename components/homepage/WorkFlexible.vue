@@ -28,7 +28,7 @@
                   </div>
                 </div>
                 <div class="mt-xl-4 mt-lg-0 mt-3 py-3">
-                  <NuxtLink to="/earn-money" class="rounded-outline-btn button-small">Earn money as a Tasker</NuxtLink>
+                  <NuxtLink to="/become-a-tasker" class="rounded-outline-btn button-small">Earn money as a Tasker</NuxtLink>
                 </div>
               </div>
             </div>
