@@ -50,12 +50,6 @@ const goNext = () => {
     
 const goBack = () => {
     step.value--
-    if(step===2){
-      currentComponent.value = CreateListingStepTwo
-      }
-    if(step===3){
-      currentComponent.value = CreateListingStepThree
-      }
 }
 const stepBar = ref([
     {
