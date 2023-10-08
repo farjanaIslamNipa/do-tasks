@@ -90,9 +90,10 @@ export default defineNuxtConfig({
     { src: "@/plugins/vue-datepicker", ssr: false, mode: "client" },
     { src: "@/plugins/vue-multiselect", ssr: false, mode: "client" },
     { src: "@/plugins/vue-tag-input", ssr: false, mode: "client" },
+    { src: "@/plugins/carousel" },
   ],
   modules: [
-    '@nuxt/image',
+    '@nuxt/image'
   ],
   image: {
     quality: 80,
@@ -100,11 +101,38 @@ export default defineNuxtConfig({
   },
   hooks: {
     'pages:extend': (pages) => {
-      pages.push({
+      pages.push(
+        {
         name: 'profile',
         path: '/profile',
         file: '@/pages/user/profile.vue',
-      });
+      },
+      {
+        name: 'list-my-services',
+        path: '/list-my-services',
+        file: '@/pages/user/list-my-services.vue',
+      },
+      {
+        name: 'listed-services',
+        path: '/listed-services',
+        file: '@/pages/user/listed-services.vue',
+      },
+      {
+        name: 'listed-tasks',
+        path: '/listed-tasks',
+        file: '@/pages/user/listed-tasks.vue',
+      },
+      {
+        name: 'view-task',
+        path: '/view-task',
+        file: '@/pages/user/view-task.vue',
+      },
+      {
+        name: 'create-listing',
+        path: '/create-listing',
+        file: '@/pages/user/create-listing.vue',
+      },
+      );
     }
   }
 })

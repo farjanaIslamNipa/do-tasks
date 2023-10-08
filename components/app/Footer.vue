@@ -19,6 +19,7 @@
               <NuxtLink to="/job-category" class="text-dark py-1 d-block">Job Categories</NuxtLink>
               <NuxtLink to="/community-guidelines" class="text-dark py-1 d-block">Community Guideline</NuxtLink>
               <NuxtLink to="/insurance-policy" class="text-dark py-1 d-block">Insurance Policy</NuxtLink>
+              <NuxtLink to="/discover" class="text-dark py-1 d-block">Discover</NuxtLink>
             </div>
           </div>
           <div class="col-sm-6 col-md-3">
@@ -29,9 +30,9 @@
               <NuxtLink to="/settings/account" class="text-dark py-1 d-block">Profile Settings</NuxtLink>
               <NuxtLink to="/create-listing" class="text-dark py-1 d-block">Create Listing</NuxtLink>
               <NuxtLink to="/list-my-services" class="text-dark py-1 d-block">List Your Services</NuxtLink>
-              <NuxtLink to="/listing" class="text-dark py-1 d-block">Listed Services</NuxtLink>
-              <NuxtLink to="/my-tasks" class="text-dark py-1 d-block">Listed Tasks</NuxtLink>
-              <NuxtLink to="/listing/listing-view" class="text-dark py-1 d-block">View List</NuxtLink>
+              <NuxtLink to="/listed-services" class="text-dark py-1 d-block">Listed Services</NuxtLink>
+              <NuxtLink to="/listed-tasks" class="text-dark py-1 d-block">Listed Tasks</NuxtLink>
+              <NuxtLink to="/view-task" class="text-dark py-1 d-block">View Task</NuxtLink>
             </div>
           </div>
           <div class="col-sm-6 col-md-3">

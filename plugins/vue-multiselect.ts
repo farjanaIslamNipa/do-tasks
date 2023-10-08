@@ -1,6 +1,6 @@
-import Multiselect from 'vue-multiselect'
-import "vue-multiselect/dist/vue-multiselect.min.css";
+import VueMultiselect from 'vue-multiselect'
+import "vue-multiselect/dist/vue-multiselect.css";
 
 export default defineNuxtPlugin((nuxtApp) => {
-  nuxtApp.vueApp.component('multi-select', Multiselect)
+  nuxtApp.vueApp.component('VueMultiselect', VueMultiselect)
 })

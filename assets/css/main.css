@@ -201,3 +201,273 @@ input:focus, select:focus, textarea:focus{
   resize: none;
 }
 
+/* DEFAULT AND COMMON FORM CSS */
+.hover-lime:hover{
+  transition: all 0.3s ease !important;
+  color: var(--lime) !important;
+}
+
+.hover-brand:hover{
+  transition: all 0.3s ease !important;
+  color: var(--brandColor) !important;
+}
+.hover-shadow:hover{
+  transition: all 0.3s ease !important;
+  box-shadow: 0 1px 1px rgba(102, 45, 145, 0.11), 0 2px 2px rgba(102, 45, 145, 0.11), 0 4px 4px rgba(102, 45, 145, 0.11), 0 6px 8px rgba(102, 45, 145, 0.11), 0 8px 16px rgba(102, 45, 145, 0.11);
+}
+.basic-form input:focus{
+  border: 1px solid var(--brandColor);
+}
+.basic-form textarea:focus{
+  outline: none !important;
+  border: 1px solid var(--brandColor) !important;
+  color: #525252;
+}
+
+.basic-form input::placeholder, .basic-form textarea::placeholder{
+  color: #a7a7a7;
+}
+
+.form-check-input:checked{
+  background-color: var(--brandColor) !important;
+  border-color: var(--brandColor) !important;
+}
+
+.task-form {
+  padding: 30px 30px 50px;
+}
+@media(max-width:424px){
+  .task-form {  padding: 20px 10px 30px;}
+}
+.task-form input:focus{
+  border: 1px solid var(--brandColor) !important;
+}
+.task-form textarea:focus{
+  border: 1px solid var(--brandColor) !important;
+  color: #525252;
+}
+
+.placeholder-font::placeholder{
+  color: rgb(148, 146, 146);
+  font-size: 14px;
+}
+
+/* Common css for customized radio and checkbox design */
+.custom-radio-or-check-input{
+  display: none;
+}
+.custom-radio-or-check-input:checked+.custom-radio-or-check-label {
+  background-color: var(--brandColor);
+}
+.custom-radio-or-check-input:checked+.custom-radio-or-check-label .radio-or-check-content h6{
+  color: white;
+}
+.custom-radio-or-check-input:checked+.custom-radio-or-check-label .radio-or-check-content p{
+  color: white;
+}
+.custom-radio-or-check-input:checked+.custom-radio-or-check-label .radio-or-check-content span{
+  color: white;
+}
+.custom-radio-or-check-input:checked+.custom-radio-or-check-label {
+  background-color: var(--brandColor);
+}
+.custom-radio-or-check-input:checked+.custom-radio-or-check-label .radio-or-check-content .custom-radio-or-check-icon {
+  color: #fff !important;
+}
+.custom-radio-or-check-label{
+  background-color: #fff;
+  transition: all 250ms ease;
+  will-change: transition;
+  text-align: center;
+  cursor: pointer;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: 1px solid rgb(148, 146, 146);
+  border-radius: 5px;
+}
+.radio-or-check-content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  transition: all 300ms ease;
+  font-size: 17px;
+  user-select: none;
+  color: #424242;
+}
+.radio-or-check-content::before {
+  font-size: 1.2em;
+  font-family: FontAwesome;
+  display: block;
+  transform: translateY(-80px);
+  opacity: 0;
+  transition: all 300ms ease-in-out;
+  font-weight: normal;
+  color: white;
+}
+.radio-or-check-content h6 {
+  margin-top: 10px;
+}
+
+.radio-or-check-content p {
+  font-size: 14px;
+  color: #525252;
+  margin-bottom: 0;
+  line-height: 14px;
+}
+
+/* Vue js modal css */
+.vm--modal{
+  top: 110px !important;
+  height: 80vh !important;
+  overflow-y: scroll !important;
+}
+
+.vm--modal::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+.vm--modal::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #F5F5F5;
+}
+
+.vm--modal::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #bcb2c4;
+}
+
+@media(max-width:619px){
+  .vm--modal{
+    width: 95% !important;
+    margin: 0 auto;
+    left: 0 !important;
+    right: 0 !important;
+  }
+}
+
+.listing-filter .input-group-text{
+  background: none !important;
+  border: 1px solid var(--purpleLight) !important;
+}
+.review-select .multiselect{
+  border: 1px solid var(--purpleLight) !important;
+  border-radius: 2px;
+  width: 230px !important;
+  color: #424242 !important;
+}
+.review-select .multiselect__placeholder{
+  color: var(--brandColor) !important;
+}
+.multiselect__option--highlight{
+  background: var(--brandColor) !important;
+}
+.guideline-link{
+  color: #424242;
+  text-decoration: underline !important;
+  font-size: 20px;
+}
+@media(max-width:991px){
+  .review-select .multiselect{
+    width:180px !important;
+  }
+}
+
+
+.tag-input:focus .v3ti-tag-wrapper{
+  border: 1px solid var(--brandColor) !important;
+}
+.tag-input .v3ti-tag{
+  background-color: var(--lime) !important;
+}
+.badge-icon{
+  height: 35px;
+  width: 35px;
+  object-fit: cover;
+}
+.dropdown-toggle::after {
+  vertical-align: 1px !important;
+}
+
+/* Remove inside border of vue multiselect input */
+.multiselect__tags .multiselect__input{
+  border: none !important;
+}
+
+.listing-form-view-height{
+  height: 70vh;
+  overflow-y: hidden;
+}
+.listing-form-view-height:hover{
+  overflow-y: overlay;
+
+}
+.listing-form-view-height::-webkit-scrollbar-track
+{
+-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+border-radius: 10px;
+background-color: #F5F5F5;
+}
+
+.listing-form-view-height::-webkit-scrollbar
+{
+width: 3px;
+background-color: #F5F5F5;
+}
+
+.listing-form-view-height::-webkit-scrollbar-thumb
+{
+border-radius: 10px;
+-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+background-color: #ece0f3;
+}
+.post-task-form-height{
+  height: 65vh;
+  overflow-y: hidden;
+}
+.post-task-form-height:hover{
+  overflow-y: overlay;
+
+}
+.post-task-form-height::-webkit-scrollbar-track
+{
+-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+border-radius: 10px;
+background-color: #F5F5F5;
+}
+
+.post-task-form-height::-webkit-scrollbar
+{
+width: 3px;
+background-color: #F5F5F5;
+}
+
+.post-task-form-height::-webkit-scrollbar-thumb
+{
+border-radius: 10px;
+-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+background-color: #ece0f3;
+}
+
+/* Remove inside border of input type tags */
+.vue-input-tag-wrapper input{
+  border: none !important;
+}
+
+/* To remove google logo from google autocomplete dropdown */
+.pac-container:after {
+  background-image: none !important;
+  height: 0px;
+}
+.text-stroke{
+  font-size: 28px !important;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: var(--brandColor);
+}

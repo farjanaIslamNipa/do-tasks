@@ -1,6 +1,6 @@
 
 <template>
-      <NuxtLink to="#" class="d-block bg-white card-shadow find-task-card open-active px-2 py-3 mb-2">
+      <NuxtLink to="/task-view" class="d-block bg-white card-shadow find-task-card open-active px-2 py-3 mb-2">
         <div class="d-flex justify-content-between align-items-center">
             <h6 class="fw-bold text-gray mb-0 text-uppercase">Hair extensions</h6>
             <h5 class="fw-bold text-gray mb-0">$160</h5>
