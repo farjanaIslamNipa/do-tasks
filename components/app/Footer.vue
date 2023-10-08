@@ -25,7 +25,7 @@
           <div class="col-sm-6 col-md-3">
             <div class="text-sm-start text-center">
               <h4 class="fw-bold text-brand mt-3">Customer</h4>
-              <NuxtLink to="/user" class="text-dark py-1 d-block">Profile</NuxtLink>
+              <NuxtLink to="/profile" class="text-dark py-1 d-block">Profile</NuxtLink>
               <NuxtLink to="/profile" class="text-dark py-1 d-block">Update Profile</NuxtLink>
               <NuxtLink to="/settings/account" class="text-dark py-1 d-block">Profile Settings</NuxtLink>
               <NuxtLink to="/create-listing" class="text-dark py-1 d-block">Create Listing</NuxtLink>
