@@ -12,28 +12,20 @@
             <div class="col-lg-9 col-12">
                 <div>
                     <h3 class="text-brand fw-bold mb-2">Create your listing</h3>
-
-                    <div v-if="step === 1">
-                     <CreateListingStepOne @go-next="goNext" />
+                    <div>
+                      <KeepAlive>
+                        <component :is="currentComponent" />
+                      </KeepAlive>
+                      <div v-if="step === 1" class="col-md-8 mb-4">
+                          <div class="text-center mt-4"><button class="rounded-fill-btn py-md-2 py-1 w-75" @click="goNext()">Next</button></div>
+                      </div>
+                      <div v-else class="col-md-8 mb-4 mt-4">
+                        <div class="d-flex justify-content-between">
+                            <button class="rounded-outline-btn py-md-2 py-1 mx-2 w-100" @click="goBack()">Back</button>
+                            <button class="rounded-fill-btn py-md-2 py-1 mx-2 w-100" @click="goNext()">Next</button>
+                        </div>
                     </div>
-                    <div v-if="step === 2">
-           
-                    </div>
-                    <div v-if="step === 3">
-                     
-                    </div>
-                    <div v-if="step === 4">
-                 
-                    </div>
-                    <div v-if="step === 5">
-                       
-                    </div>
-                    <div v-if="step === 6">
-                
-                    </div>
-                    <div v-if="step === 7">
-                     
-                    </div>
+                  </div>
                 </div>
             </div>
         </div>
@@ -42,21 +34,28 @@
 </template>
 
 <script setup>
-import {ref, shallowRef} from 'vue';
+import {ref, } from 'vue';
 import CreateListingStepOne from '@/components/create-listing/StepOne.vue';
 import CreateListingStepTwo from '@/components/create-listing/StepTwo.vue';
+import CreateListingStepThree from '@/components/create-listing/StepThree.vue';
 
-const currentComponent = shallowRef(CreateListingStepOne)
+const currentComponent = ref(CreateListingStepOne)
 
 const step = ref(1)
 const currentStep = ref({value: ''})
 
-const goNext = (nextComponent) => {
+const goNext = () => {
     step.value++
-    currentComponent.value = nextComponent
-}
+  }
+    
 const goBack = () => {
     step.value--
+    if(step===2){
+      currentComponent.value = CreateListingStepTwo
+      }
+    if(step===3){
+      currentComponent.value = CreateListingStepThree
+      }
 }
 const stepBar = ref([
     {
