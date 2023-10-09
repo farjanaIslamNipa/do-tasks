@@ -23,7 +23,9 @@ html{
 a{
   text-decoration: none !important;
 }
-
+.modal{
+  z-index: 99999 !important;
+}
 /* Default font styles */
 .text-brand{
   color: var(--brandColor);
