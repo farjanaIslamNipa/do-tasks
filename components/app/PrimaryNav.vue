@@ -307,8 +307,8 @@
   cursor: pointer;
 }
 
-a.nuxt-link-exact-active {
-  color: var(--brandColor);
+.router-link-exact-active {
+  color: var(--brandColor) !important;
 }
 
 .user-img{

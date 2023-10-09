@@ -2,7 +2,7 @@
   <div>
     <div class="d-flex justify-content-between pb-2 px-2">
         <div class="">
-          <NuxtLink class="slider-category text-brand" to="/listing">{{ props.sliderTitle }} <span class="caret-right"><i class="fa-solid fa-angle-right"></i></span></NuxtLink>
+          <NuxtLink class="slider-category text-brand" to="/view-task">{{ props.sliderTitle }} <span class="caret-right"><i class="fa-solid fa-angle-right"></i></span></NuxtLink>
         </div>
         <div class="d-flex align-items-center">
           <div class="caret-navigation me-1" @click="showPrev"><span><i class="fa-solid fa-angle-left"></i></span></div>

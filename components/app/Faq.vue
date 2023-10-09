@@ -84,7 +84,7 @@
     </div>
     <div class="mt-4 text-center">
       <h3 class="text-brand fw-bold text-center text-capitalize mb-3">further any query</h3>
-      <NuxtLink to="#" class="rounded-fill-btn">Contact Us&nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></NuxtLink>
+      <button class="rounded-fill-btn py-2">Contact Us&nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></button>
     </div>
   </div>
 </div>

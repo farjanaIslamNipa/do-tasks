@@ -102,7 +102,7 @@
                                 <h3 class="text-brand fw-bold text-center">Monetise your special skills</h3>
                                 <h5>Find inspiration in the wide range of listings others are creating on Airtasker</h5>
                                 <div class="mt-4 mb-md-0 mb-5">
-                                    <NuxtLink to="/listing" class="rounded-outline-btn">Browse all listings</NuxtLink>
+                                    <NuxtLink to="/listed-services" class="rounded-outline-btn">Browse all listings</NuxtLink>
                                 </div>
                             </div>
                         </div>

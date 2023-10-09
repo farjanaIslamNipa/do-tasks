@@ -15,7 +15,7 @@
               <div class="text-center m-4">
                   <div class="bg-white card-shadow rounded py-4 px-4">
                       <p class="text-300">Drag and drop or click to upload. Supported files: .jpg, .jpeg, .png. Max file size: 10MB</p>
-                      <div class="px-5 pb-1">
+                      <div class="px-md-5 px-2 pb-1">
                           <div class="upload-img-box my-3">
                               <input type="file" >
                               <div>
@@ -33,7 +33,7 @@
             <div class="text-center m-4">
               <div class="bg-white card-shadow rounded py-4 px-4">
                 <p class="text-300">Drag and drop or click to upload. Supported files: .jpg, .jpeg, .png. Max file size: 10MB</p>
-                <div class="px-5 pb-1">
+                <div class="px-md-5 px-2 pb-1">
                   <div class="upload-img-box my-3">
                       <input type="file" >
                       <div>

@@ -118,7 +118,7 @@
                     </div>
                   </div>
                   <div class="ms-1 d-flex align-items-start">
-                    <input class="confirm-checkbox" type="checkbox">
+                    <input class="confirm-checkbox mt-1" type="checkbox">
                     <label class="ms-2">
                       I do not want to receive product updates or marketing material
                     </label>

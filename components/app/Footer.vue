@@ -16,7 +16,7 @@
               <NuxtLink to="/careers" class="text-dark py-1 d-block">Careers</NuxtLink>
               <NuxtLink to="/about-us" class="text-dark py-1 d-block">About Us</NuxtLink>
               <NuxtLink to="/listed-jobs" class="text-dark py-1 d-block">Listed Jobs</NuxtLink>
-              <NuxtLink to="/job-category" class="text-dark py-1 d-block">Job Categories</NuxtLink>
+              <NuxtLink to="/job-categories" class="text-dark py-1 d-block">Job Categories</NuxtLink>
               <NuxtLink to="/community-guidelines" class="text-dark py-1 d-block">Community Guideline</NuxtLink>
               <NuxtLink to="/insurance-policy" class="text-dark py-1 d-block">Insurance Policy</NuxtLink>
               <NuxtLink to="/discover" class="text-dark py-1 d-block">Discover</NuxtLink>

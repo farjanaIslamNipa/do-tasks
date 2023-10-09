@@ -44,7 +44,7 @@
           <div class="client-review-video text-center pt-4">
             <img class="img-fluid" src="/images/frontend/about-us/client-say-video.png" alt="">
           </div>
-          <div class="text-center mt-5"><NuxtLink to="#" class="rounded-fill-btn">See More Videos</NuxtLink></div>
+          <div class="text-center mt-5"><button class="rounded-fill-btn py-2">See More Videos</button></div>
         </div>
       </div>
     </div>

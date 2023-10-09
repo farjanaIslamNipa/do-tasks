@@ -241,6 +241,7 @@ input:focus, select:focus, textarea:focus{
 }
 .task-form input:focus{
   border: 1px solid var(--brandColor) !important;
+  outline: none !important;
 }
 .task-form textarea:focus{
   border: 1px solid var(--brandColor) !important;
@@ -428,7 +429,7 @@ border-radius: 10px;
 background-color: #ece0f3;
 }
 .post-task-form-height{
-  height: 65vh;
+  height: 60vh;
   overflow-y: hidden;
 }
 .post-task-form-height:hover{

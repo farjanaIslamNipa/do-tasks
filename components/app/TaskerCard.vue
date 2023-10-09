@@ -1,6 +1,6 @@
 <template>
  <div>
-  <NuxtLink to="/listing/listing-view" class="mx-2 d-block">
+  <NuxtLink to="/view-task" class="mx-2 d-block">
     <img class="img-fluid slider-img" src="/images/frontend/listing/listing-banner.png" alt="">
     <div class="mt-3">
       <h5 class="mb-2 text-dark text-18">House Cleaning - Deep Clean/Spring Clean</h5>
