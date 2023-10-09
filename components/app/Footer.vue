@@ -8,6 +8,10 @@
                 <img class="brand-logo" src="/images/frontend/general/do-task-logo-1.svg" alt="Logo">
               </NuxtLink>
               <h6 class="fw-semibold my-3 pe-4">The only way to do great work is to love what you do</h6>
+              <div class="mt-2">
+                <a href="https://www.behance.net/tama111197" target="_blank" class="text-dark">UI/UX Design: <em>Tamanna Tama</em></a><br>
+                <a href="https://www.linkedin.com/in/farjana-islam-9106681ba/" target="_blank" class="text-dark">Website Design: <em>Farjana Islam</em></a>
+              </div>
             </div>
           </div>
           <div class="col-sm-6 col-md-3">
