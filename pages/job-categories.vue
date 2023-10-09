@@ -57,7 +57,7 @@
   </div>
 
 
-  <!-- Why join HiTasks -->
+  <!-- Why join DoTasks -->
   <JobsWhyJoin />
 
   <!-- Protection Section -->
@@ -73,14 +73,14 @@
                 <img  data-aos="zoom-in" data-aos-delay="100" data-aos-duration="800" class="protection-icon" src="/images/frontend/jobs/public-liability-icon.svg" alt="">
                 <div class="ps-3">
                   <h6 class="fw-bold">Public Liability*</h6>
-                  <p class="mb-0">HiTasks Insurance covers the Tasker for their liability to third parties for personal injury or property damage whilst performing certain task activities</p>
+                  <p class="mb-0">DoTasks Insurance covers the Tasker for their liability to third parties for personal injury or property damage whilst performing certain task activities</p>
                 </div>
               </div>
               <div class="bg-purple-lighter py-3 px-3 d-flex card-shadow mb-4">
                 <img  data-aos="zoom-in" data-aos-delay="100" data-aos-duration="800" class="protection-icon" src="/images/frontend/jobs/insurance-icon.svg" alt="">
                 <div class="ps-3">
                   <h6 class="fw-bold">Top rated insurance</h6>
-                  <p class="mb-0">HiTasks Insurance covers the Tasker for their liability to third parties for personal injury or property damage whilst performing certain task activities</p>
+                  <p class="mb-0">DoTasks Insurance covers the Tasker for their liability to third parties for personal injury or property damage whilst performing certain task activities</p>
                 </div>
               </div>
               <p>*subject to terms and conditions, excess and exclusions applies.</p>
@@ -103,7 +103,7 @@
   <div class="py-5 bg-purple-lighter">
     <div class="container">
       <h2 class="fw-bold text-center">What else could you do?</h2>
-      <h5 class="text-center">Check out other interesting jobs you can do on HiTasks!</h5>
+      <h5 class="text-center">Check out other interesting jobs you can do on DoTasks!</h5>
       <div class="d-flex align-items-center flex-wrap justify-content-center pt-4 pb-sm-5 pb-3">
           <NuxtLink class="getting-done-link mb-xl-0 mb-2" to="/">Moving in</NuxtLink>
           <NuxtLink class="getting-done-link mb-xl-0 mb-2" to="#">Home maintenance</NuxtLink>

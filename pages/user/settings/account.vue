@@ -78,7 +78,7 @@
                                 <textarea class="form-control" rows="4" placeholder="Enter description"></textarea>
                             </div>
                             <div class="position-relative mb-3 pt-2">
-                                <label for="" class="mb-1">On HiTasks I want to</label>
+                                <label for="" class="mb-1">On DoTasks I want to</label>
                                 <div>
                                 <label for="things-done" class="main-goal-radio-container">
                                     <input id="things-done" class="main-goal-radio-one-input" type="radio" name="main-goal" />

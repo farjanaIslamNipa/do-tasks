@@ -2,7 +2,7 @@
   <div>
     <div class="career-bg d-flex align-items-center">
       <div class="container">
-        <h1 class="fw-bold"><span class="text-brand">Careers</span> at HiTasks</h1>
+        <h1 class="fw-bold"><span class="text-brand">Careers</span> at DoTasks</h1>
         <h5 class="mb-5 text-small">Come join us as we build the world’s no.1 <br> marketplace for local services.</h5>
         <NuxtLink to="/sign-up" class="rounded-fill-btn button-small relative">Come join us!</NuxtLink>
       </div>
@@ -64,7 +64,7 @@
         <div class="row justify-content-center">
           <div class="col-xl-10 col-12 text-center">
             <h5>Come work with us!</h5>
-            <h3 class="text-brand fw-bold">Want to be a part of the HiTasks</h3>
+            <h3 class="text-brand fw-bold">Want to be a part of the DoTasks</h3>
             <p>We are always looking for new recruits who share our ideals! Check our current job listings below to find your desired roles.</p>
             <div class="d-sm-flex d-block align-items-center justify-content-center filter-section-width mx-auto">
               <div class="text-start w-100 mx-lg-3 mx-sm-2 mx-0 mb-sm-0 mb-3">

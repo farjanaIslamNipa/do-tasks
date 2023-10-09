@@ -91,7 +91,7 @@
             <!-- QUESTIONS -->
             <div class="mt-5 mb-4">
                 <h6 class="text-brand text-uppercase fw-bold text-underline">QUESTIONS(0)</h6>
-                <h6 class="text-gray text-600">Please don't share personal info – insurance won't apply to tasks not done through HiTasks!</h6>
+                <h6 class="text-gray text-600">Please don't share personal info – insurance won't apply to tasks not done through DoTasks!</h6>
                 <div class="question-box">
                     <textarea rows="4" class="w-100"></textarea>
                     <div class="d-flex justify-content-between align-items-center">

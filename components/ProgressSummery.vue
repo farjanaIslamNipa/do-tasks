@@ -7,7 +7,7 @@
             <div class="text-center text-white">
               <p class="mb-1">Over</p>
               <h3 class="fw-bold mb-2 success-count">2.1M</h3>
-              <h5 class="mb-0 success-title">People using HiTasks</h5>
+              <h5 class="mb-0 success-title">People using DoTasks</h5>
             </div>
           </div>
           <div class="col-4">

@@ -18,13 +18,13 @@
         <div class="row justify-content-end">
           <div class="col-lg-6">
             <div>
-              <h2 class="text-brand fw-bold">The HiTasks Vision</h2>
+              <h2 class="text-brand fw-bold">The DoTasks Vision</h2>
               <h5 class="fw-bold my-md-4 my-2">The only way to do great work is to love what you do</h5>
               <div>
-                <p class="text-18">HiTasks is a trusted community platform that connects people who need to outsource tasks and find local services, with people who are looking to earn money and ready to work</p>
-                <p class="text-18">From simple to complicated tasks, HiTasks can help you complete your home cleaning, handyman jobs, admin work, photography, graphic design or even build a website.</p>
-                <p class="text-18">Go online or download the app and HiTasks will take you from 'things to do' to 'everything's done'.</p>
-                <p>HiTasks. Get More Done.</p>
+                <p class="text-18">DoTasks is a trusted community platform that connects people who need to outsource tasks and find local services, with people who are looking to earn money and ready to work</p>
+                <p class="text-18">From simple to complicated tasks, DoTasks can help you complete your home cleaning, handyman jobs, admin work, photography, graphic design or even build a website.</p>
+                <p class="text-18">Go online or download the app and DoTasks will take you from 'things to do' to 'everything's done'.</p>
+                <p>DoTasks. Get More Done.</p>
             </div>
             </div>
           </div>

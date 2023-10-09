@@ -23,7 +23,7 @@
                   <div>
                     <button @click="step++" class="sign-up-btn d-block text-center py-2 rounded-2 w-100">Sign Up</button>
                   </div>
-                  <p class="mb-0 mt-4">By proceeding, I agree to HiTasks's <span>
+                  <p class="mb-0 mt-4">By proceeding, I agree to DoTasks's <span>
                       <NuxtLink to="/community-guidelines" class="text-brand hover-lime">Terms & Conditions, Community Guidelines,
                       </NuxtLink>
                     </span> & <span>
@@ -94,7 +94,7 @@
                     </div>
                   </div>
                   <div class="position-relative mb-3">
-                    <label for="" class="mb-0">What is your main goal on HiTasks?</label>
+                    <label for="" class="mb-0">What is your main goal on DoTasks?</label>
                     <div>
                       <label for="feature1" class="main-goal-radio-container">
                         <input id="feature1" class="main-goal-radio-one-input" type="radio" name="main-goal" />

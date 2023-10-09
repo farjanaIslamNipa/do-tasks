@@ -1,7 +1,7 @@
 <template>
    <div class="py-5">
     <div class="container">
-      <h1 class="text-center text-brand mt-lg-4 mt-0">160,000 Taskers have earned an income on HiTasks</h1>
+      <h1 class="text-center text-brand mt-lg-4 mt-0">160,000 Taskers have earned an income on DoTasks</h1>
       <div class="d-flex align-items-center flex-wrap justify-content-center pt-4 pb-5">
         <NuxtLink class="tasker-link" to="/">Samanta</NuxtLink>
         <NuxtLink class="tasker-link" to="#">John</NuxtLink>

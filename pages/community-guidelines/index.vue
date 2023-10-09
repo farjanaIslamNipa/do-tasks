@@ -6,7 +6,7 @@
               <div class="col-md-6">
                   <div class="pt-5">
                       <h2 class="text-brand fw-bold mb-3">Community Guidelines</h2>
-                      <h5 class="text-400 text-gray guideline-line-height">We’re passionate about connecting people ready to work with people who need work done. As HiTasks continues to grow it’s important that the community follows guidelines that reflect our values and standards of behaviour.</h5>
+                      <h5 class="text-400 text-gray guideline-line-height">We’re passionate about connecting people ready to work with people who need work done. As DoTasks continues to grow it’s important that the community follows guidelines that reflect our values and standards of behaviour.</h5>
                   </div>
                   <div class="pt-xl-4 pt-3">
                       <NuxtLink to="#" class="text-underline text-gray text-18 text-600 hover-lime">Privacy Policy</NuxtLink>
@@ -24,7 +24,7 @@
   <div class="py-5">
       <div class="container">
           <h2 class="text-brand text-center fw-bold">Policies for our community members</h2>
-          <p class="text-center text-18 px-xl-5 px-0">Creating a community where all members can enjoy a safe and rewarding HiTasks experience requires trust. Being responsible and respectful to others are the building blocks that form our marketplace integrity.</p>
+          <p class="text-center text-18 px-xl-5 px-0">Creating a community where all members can enjoy a safe and rewarding DoTasks experience requires trust. Being responsible and respectful to others are the building blocks that form our marketplace integrity.</p>
           <div class="row px-xl-5 px-0 pt-4">
               <div class="col-md-6 mb-md-0 mb-4">
                   <div class="d-flex align-items-center bg-white card-shadow rounded py-4 px-xl-5 px-lg-3 px-2 h-100 cursor-pointer" @click="goTo('/community-guidelines/poster-guidelines')">

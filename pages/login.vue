@@ -29,7 +29,7 @@
                     </div>
                   </div>
                   <div><NuxtLink to="#" class="rounded-fill-btn d-block text-center py-1 mt-4 rounded-2">Sign In</NuxtLink></div>
-                  <p class="mb-0 mt-4">By proceeding, I agree to HiTasks's <span><NuxtLink to="#" class="text-brand hover-lime">Terms & Conditions, Community Guidelines,</NuxtLink></span> & <span><NuxtLink to="#" class="text-brand hover-lime">Privacy Policy</NuxtLink></span></p>
+                  <p class="mb-0 mt-4">By proceeding, I agree to DoTasks's <span><NuxtLink to="#" class="text-brand hover-lime">Terms & Conditions, Community Guidelines,</NuxtLink></span> & <span><NuxtLink to="#" class="text-brand hover-lime">Privacy Policy</NuxtLink></span></p>
                   <div class="mt-4">
                     <hr>
                     <p class="mb-0">Don’t have an account an account? <span><NuxtLink to="/sign-up" class="text-lime fw-bold ms-xl-4 ms-lg-2 ms-0 hover-brand">Sign up</NuxtLink></span></p>

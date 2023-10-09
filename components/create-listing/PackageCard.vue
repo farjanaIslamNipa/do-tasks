@@ -24,7 +24,7 @@
               </div>
           </div>
           <div class="text-section ms-md-4 ms-0">
-              <p class="mb-0 text-15 line-height-1 text-gray text-300">HiTasks will deduct a service fee between 10-20% of the package price depending on your tier at time of booking. More info</p>
+              <p class="mb-0 text-15 line-height-1 text-gray text-300">DoTasks will deduct a service fee between 10-20% of the package price depending on your tier at time of booking. More info</p>
           </div>
       </div>
       <p>Do not put prices in your listing description. You can set up price packages for your listing in the next step.</p>

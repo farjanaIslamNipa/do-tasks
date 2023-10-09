@@ -6,7 +6,7 @@
           <div class="col-xl-6 col-md-7 col-12">
             <div class="header-left-content">
               <h1 class="fw-bold mb-4">Work when <span class="text-brand">you want,</span> <br> Doing whatever you want.</h1>
-              <h5>Earn up to $10,750 a month on HiTasks*</h5>
+              <h5>Earn up to $10,750 a month on DoTasks*</h5>
               <div class="py-xl-5 py-4">
                 <NuxtLink to="/sign-up" class="rounded-fill-btn px-5">Join HighTasks</NuxtLink>
               </div>

@@ -7,7 +7,7 @@
                         <div class="col-md-6">
                             <div class="">
                                 <h1 class="fw-bold pe-5">List your skills fast and free, <span class="text-brand">with Listings</span></h1>
-                                <h5>Advertise your skills to millions of people on HiTasks looking to get more done</h5>
+                                <h5>Advertise your skills to millions of people on DoTasks looking to get more done</h5>
                                 <div class="pt-4">
                                     <NuxtLink to="/create-listing" class="rounded-fill-btn rounded-0">Create my first listing</NuxtLink>
                                 </div>
@@ -51,7 +51,7 @@
                             <div>
                                 <div class="text-end mb-3 d-lg-block d-none"><img src="/images/frontend/list-my-services/icon-1.svg" alt="" class="img-fluid icon-img"></div>
                                 <h2 class="text-brand fw-bold mb-4 pt-5">Get found by buyers.</h2>
-                                <h5>Buyers can browse and discover listings all within the existing HiTasks app. Your listing will be shown with other listings for buyers to find, compare and book.</h5>
+                                <h5>Buyers can browse and discover listings all within the existing DoTasks app. Your listing will be shown with other listings for buyers to find, compare and book.</h5>
                             </div>
                         </div>
                         <div class="col-md-6 order-md-2 order-1">

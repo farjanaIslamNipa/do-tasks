@@ -11,7 +11,7 @@
               <div style="background-color:#F5F2FE;" class="protected-bottom-box text-center rounded card-shadow py-5 px-lg-4 px-2">
                 <h4 class="text-brand fw-bold protected-title mb-0">Public Liability</h4>
                 <div class="protected-card-details-height">
-                  <p class="mb-0">HiTasks Insurance covers the Tasker for their liability to third parties for personal injury or property damage whilst performing certain task activities</p>
+                  <p class="mb-0">DoTasks Insurance covers the Tasker for their liability to third parties for personal injury or property damage whilst performing certain task activities</p>
                 </div>
               </div>
             </div>
@@ -24,7 +24,7 @@
               <div style="background-color:#ECE6FD;" class="protected-bottom-box text-center rounded card-shadow py-5 px-lg-4 px-2">
                 <h4 class="text-brand fw-bold protected-title mb-0">Top Rated Insurance</h4>
                 <div class="protected-card-details-height">
-                  <p class="mb-0">HiTasks Insurance is provided by Berkshire Hathaway Specialty Insurance - one of the most reputable and innovative insurance brands</p>
+                  <p class="mb-0">DoTasks Insurance is provided by Berkshire Hathaway Specialty Insurance - one of the most reputable and innovative insurance brands</p>
                 </div>
               </div>
             </div>

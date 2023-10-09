@@ -49,7 +49,7 @@
       </div>
     </div>
     <div class="bg-brand text-white text-center py-3">
-      <p class="text-15 mb-0">Copyright © {{ new Date().getFullYear() }} HiTasks. All rights reserved.</p>
+      <p class="text-15 mb-0">Copyright © {{ new Date().getFullYear() }} DoTasks. All rights reserved.</p>
     </div>
 </template>
 

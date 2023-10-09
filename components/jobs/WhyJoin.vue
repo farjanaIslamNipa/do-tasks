@@ -1,7 +1,7 @@
 <template>
 <div class="pt-sm-5 pt-3">
   <div class="container">
-    <h2 class="text-center text-brand mb-4">Why join HiTasks?</h2>
+    <h2 class="text-center text-brand mb-4">Why join DoTasks?</h2>
     <h5 class="text-center">Here are just a few great reasons</h5>
     <div class="row justify-content-center pt-sm-4 pt-2">
       <div class="col-md-4 col-sm-6 col-12 mb-md-0 mb-4">

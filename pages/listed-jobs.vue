@@ -5,8 +5,8 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-lg-8">
-              <h1 class="fw-bold mb-0">Earn money on <span class="text-brand">HiTasks</span></h1>
-              <h5 class="text-400 py-4 text-small">HiTasks is Australia's largest Job marketplace for all kind of Jobs from handyman to cleaners to gardeners. Sign up now and <span class="fw-bold">Get Hired!</span></h5>
+              <h1 class="fw-bold mb-0">Earn money on <span class="text-brand">DoTasks</span></h1>
+              <h5 class="text-400 py-4 text-small">DoTasks is Australia's largest Job marketplace for all kind of Jobs from handyman to cleaners to gardeners. Sign up now and <span class="fw-bold">Get Hired!</span></h5>
               <div class="mx-lg-5 mx-4">
                 <div class="d-flex align-items-center">
                   <div class="w-100"><input id="example-search-input" class="form-control border rounded-pill job-search-input ps-4" type="search" placeholder="Job title or keyword"></div>

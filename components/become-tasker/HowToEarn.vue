@@ -1,7 +1,7 @@
 <template>
     <div class="py-5 mt-xxl-5 mt-lg-3 mt-0">
       <div class="container">
-        <h1 class="text-brand text-center mt-lg-5 mt-0 mb-5">How to earn money on HiTasks</h1>
+        <h1 class="text-brand text-center mt-lg-5 mt-0 mb-5">How to earn money on DoTasks</h1>
         <div class="earn-money-on-high-task-bg">
           <div class="row">
               <div class="col-md-4">

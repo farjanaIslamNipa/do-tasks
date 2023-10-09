@@ -14,7 +14,7 @@
               </h2>
               <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  There’s a huge range of tasks on HiTasks. From home maintenance tasks such as cleaning, gardening and handyman tasks to office-based tasks, such as admin, graphic design, and web design tasks. There are also a bunch of interesting tasks as well, for example, pet grooming, makeup artistry, tutoring, and cabinet making. <br>The customer will let you know if the task needs to be completed in person or remote and provide dates that tasks need to be completed by.
+                  There’s a huge range of tasks on DoTasks. From home maintenance tasks such as cleaning, gardening and handyman tasks to office-based tasks, such as admin, graphic design, and web design tasks. There are also a bunch of interesting tasks as well, for example, pet grooming, makeup artistry, tutoring, and cabinet making. <br>The customer will let you know if the task needs to be completed in person or remote and provide dates that tasks need to be completed by.
                 </div>
               </div>
             </div>
@@ -26,7 +26,7 @@
               </h2>
               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  There’s a huge range of tasks on HiTasks. From home maintenance tasks such as cleaning, gardening and handyman tasks to office-based tasks, such as admin, graphic design, and web design tasks. There are also a bunch of interesting tasks as well, for example, pet grooming, makeup artistry, tutoring, and cabinet making.
+                  There’s a huge range of tasks on DoTasks. From home maintenance tasks such as cleaning, gardening and handyman tasks to office-based tasks, such as admin, graphic design, and web design tasks. There are also a bunch of interesting tasks as well, for example, pet grooming, makeup artistry, tutoring, and cabinet making.
                 </div>
               </div>
             </div>
@@ -38,7 +38,7 @@
               </h2>
               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  There’s a huge range of tasks on HiTasks. From home maintenance tasks such as cleaning, gardening and handyman tasks to office-based tasks, such as admin, graphic design, and web design tasks. There are also a bunch of interesting tasks as well, for example, pet grooming, makeup artistry, tutoring, and cabinet making.
+                  There’s a huge range of tasks on DoTasks. From home maintenance tasks such as cleaning, gardening and handyman tasks to office-based tasks, such as admin, graphic design, and web design tasks. There are also a bunch of interesting tasks as well, for example, pet grooming, makeup artistry, tutoring, and cabinet making.
                 </div>
               </div>
             </div>
@@ -50,7 +50,7 @@
               </h2>
               <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  There’s a huge range of tasks on HiTasks. From home maintenance tasks such as cleaning, gardening and handyman tasks to office-based tasks, such as admin, graphic design, and web design tasks. There are also a bunch of interesting tasks as well, for example, pet grooming, makeup artistry, tutoring, and cabinet making.
+                  There’s a huge range of tasks on DoTasks. From home maintenance tasks such as cleaning, gardening and handyman tasks to office-based tasks, such as admin, graphic design, and web design tasks. There are also a bunch of interesting tasks as well, for example, pet grooming, makeup artistry, tutoring, and cabinet making.
                 </div>
               </div>
             </div>
@@ -62,7 +62,7 @@
               </h2>
               <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  There’s a huge range of tasks on HiTasks. From home maintenance tasks such as cleaning, gardening and handyman tasks to office-based tasks, such as admin, graphic design, and web design tasks. There are also a bunch of interesting tasks as well, for example, pet grooming, makeup artistry, tutoring, and cabinet making.
+                  There’s a huge range of tasks on DoTasks. From home maintenance tasks such as cleaning, gardening and handyman tasks to office-based tasks, such as admin, graphic design, and web design tasks. There are also a bunch of interesting tasks as well, for example, pet grooming, makeup artistry, tutoring, and cabinet making.
                 </div>
               </div>
             </div>
@@ -74,7 +74,7 @@
               </h2>
               <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  There’s a huge range of tasks on HiTasks. From home maintenance tasks such as cleaning, gardening and handyman tasks to office-based tasks, such as admin, graphic design, and web design tasks. There are also a bunch of interesting tasks as well, for example, pet grooming, makeup artistry, tutoring, and cabinet making.
+                  There’s a huge range of tasks on DoTasks. From home maintenance tasks such as cleaning, gardening and handyman tasks to office-based tasks, such as admin, graphic design, and web design tasks. There are also a bunch of interesting tasks as well, for example, pet grooming, makeup artistry, tutoring, and cabinet making.
                 </div>
               </div>
             </div>
