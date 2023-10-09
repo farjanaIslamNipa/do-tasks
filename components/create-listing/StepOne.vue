@@ -13,16 +13,16 @@
                 <div class="mb-4 mt-5">
                     <label class="fw-bold">Choose a main category</label>
                     <VueMultiselect
-              v-model="selected"
-              :options="options" :show-labels="false">
-            </VueMultiselect>
+                    v-model="selected"
+                    :options="options" :show-labels="false">
+                    </VueMultiselect>
                 </div>
                 <div class="mb-5">
                     <label class="fw-bold" for="">Choose a main subcategory</label>
                     <VueMultiselect
-              v-model="subCategory"
-              :options="subCategoryOptions" :show-labels="false">
-            </VueMultiselect>
+                    v-model="subCategory"
+                    :options="subCategoryOptions" :show-labels="false">
+                    </VueMultiselect>
                 </div>
             </div>
         </div>

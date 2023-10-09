@@ -471,3 +471,7 @@ background-color: #ece0f3;
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: var(--brandColor);
 }
+.v3ti-new-tag:focus{
+  outline: none !important;
+  border: none !important;
+}
