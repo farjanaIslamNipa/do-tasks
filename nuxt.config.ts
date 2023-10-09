@@ -76,7 +76,7 @@ export default defineNuxtConfig({
           },
           // Google autocomplete api
           {
-            src: "https://maps.googleapis.com/maps/api/js?key=AIzaSyCMwCSdUrceC9GydbcIo-AG26HZBXCTR7c&libraries=places"
+            src: `https://maps.googleapis.com/maps/api/js?key=${process.env.GOOGLE_API_KEY}&libraries=places&callback=Function.prototype`
           }
       ],
     },
@@ -134,5 +134,9 @@ export default defineNuxtConfig({
       },
       );
     }
+  },
+  publicRuntimeConfig: {
+    APP_NAME: process.env.APP_NAME,
+    GOOGLE_API_KEY: process.env.GOOGLE_API_KEY
   }
 })

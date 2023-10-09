@@ -46,7 +46,7 @@
                   </div>
                   <div class="mb-5">
                     <label for="">Select your region</label>
-                    <input class="form-control" type="text" placeholder="Enter your email address or phone number">
+                    <input class="form-control" type="text" placeholder="Enter your region">
                   </div>
                   <h5 class="text-brand fw-bold my-4 text-center text-capitalize">Create your Profile</h5>
                   <div class="position-relative mb-3">
