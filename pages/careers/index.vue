@@ -9,7 +9,7 @@
     </div>
     <div class="career-header-img pb-xl-5 pb-0">
       <div class="container">
-        <img src="/images/frontend/careers/career-img.png" alt="" class="img-fluid">
+        <img src="/images/frontend/careers/career-img.webp" alt="" class="img-fluid">
       </div>
     </div>
     <div class="py-5">

@@ -30,7 +30,7 @@
             <div class="text-sm-start text-center">
               <h4 class="fw-bold text-brand mt-3">Customer</h4>
               <NuxtLink to="/profile" class="text-dark py-1 d-block">Profile</NuxtLink>
-              <NuxtLink to="/profile" class="text-dark py-1 d-block">Update Profile</NuxtLink>
+              <NuxtLink to="/user/update-profile" class="text-dark py-1 d-block">Update Profile</NuxtLink>
               <NuxtLink to="/user/settings/account" class="text-dark py-1 d-block">Profile Settings</NuxtLink>
               <NuxtLink to="/create-listing" class="text-dark py-1 d-block">Create Listing</NuxtLink>
               <NuxtLink to="/list-my-services" class="text-dark py-1 d-block">List Your Services</NuxtLink>

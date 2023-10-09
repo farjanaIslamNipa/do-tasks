@@ -34,7 +34,7 @@
 
 <style scoped>
 .home-header-bg{
-  background-image: url('/images/frontend/home/header-bg.png');
+  background-image: url('/images/frontend/home/header-bg.webp');
   background-repeat: no-repeat;
   background-position: right top;
   background-size: cover;
@@ -81,7 +81,7 @@
 }
 @media(max-width:767px){
   .home-header-bg{
-    background-image: url('/images/frontend/home/small-device-header-banner.png');
+    background-image: url('/images/frontend/home/small-device-header-banner.webp');
     height: 550px;
     background-position: top center;
     padding-top: 0;
