@@ -7,23 +7,23 @@
         </div>
         <div class="col-xl-9 col-lg-8 col-md-7 col-12">
           <div>
-            <div class="d-md-block d-none">
+            <div class="">
               <div class="d-flex justify-content-between align-items-end">
                 <h6 class="text-uppercase text-brand text-underline">Portfolio</h6>
                 <button class="profile-edit-btn btn" @click="handleProfileImg"><i class="fa-solid fa-pencil"></i></button>
               </div>
               <div class="row pt-3">
-                <div class="col-xl-4 col-md-6 mb-4">
+                <div class="col-xl-4 col-6 mb-4">
                   <div>
                     <img class="profile-img" src="/images/frontend/general/1.png" alt="">
                   </div>
                 </div>
-                <div class="col-xl-4 col-md-6 mb-4">
+                <div class="col-xl-4 col-6 mb-4">
                   <div>
                     <img class="profile-img" src="/images/frontend/general/5.png" alt="">
                   </div>
                 </div>
-                <div id="add-profile-img-box" class="col-xl-4 col-md-6 mb-4 d-none">
+                <div id="add-profile-img-box" class="col-xl-4 col-6 mb-4 d-none">
                   <div>
                     <div class="form-group upload-profile-box">
                       <input type="file" class="form-control">
@@ -274,6 +274,13 @@
   transition: max-height 0.3s ease-in;
 }
 
+@media(max-width:1440px) {
+  .profile-img {
+  height: 180px;
+  max-width: 250px;
+  object-fit: cover;
+}
+}
 @media(max-width:991px) {
   .review-active-bottom-border {
     width: 230px
@@ -286,5 +293,11 @@
     object-fit: cover;
   }
 }
-
+@media(max-width:375px) {
+  .profile-img {
+  height: 130px;
+  max-width: 140px;
+  object-fit: cover;
+}
+}
 </style>

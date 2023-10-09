@@ -404,7 +404,7 @@ input:focus, select:focus, textarea:focus{
 }
 
 .listing-form-view-height{
-  height: 70vh;
+  height: 62vh;
   overflow-y: hidden;
 }
 .listing-form-view-height:hover{
