@@ -1,7 +1,7 @@
 <template>
-  <div class="row">
+  <div class="row listing-form-view-height">
     <div class="col-md-8 px-0">
-      <div class="listing-form-view-height px-2 py-2">
+      <div class="px-2 py-2">
         <div class="bg-white basic-form card-shadow rounded pt-4 pb-4 px-4">
             <h5 class="text-brand fw-bold text-18">Choose where you will deliver this service</h5>
             <div class="pt-2 d-md-none d-block">

@@ -1,7 +1,7 @@
 <template>
     <div class="row">
-    <div class="col-md-8 px-1">
-        <div class="listing-form-view-height py-2 px-2">
+    <div class="col-md-8 px-1 listing-form-view-height">
+        <div class=" py-2 px-2">
             <div class="bg-white basic-form card-shadow rounded py-4 px-4">
                 <h5 class="text-brand fw-bold">What type of service will this listing offer?</h5>
                 <p>Choose a category that best describes the service being offered in this listing. This will help

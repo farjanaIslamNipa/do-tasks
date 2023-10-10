@@ -1,7 +1,7 @@
 <template>
-  <div class="row">
+  <div class="row listing-form-view-height">
     <div class="col-md-8">
-      <div class="listing-form-view-height px-2 py-2">
+      <div class="px-2 py-2" >
         <div class="bg-white basic-form card-shadow rounded py-4 px-4">
           <h5 class="text-brand fw-bold">Price & package your listing</h5>
           <p>Price your listing with a single price or up to 5 price packages.</p>

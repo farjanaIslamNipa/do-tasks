@@ -1,7 +1,7 @@
 <template>
-  <div class="row">
+  <div class="row listing-form-view-height">
     <div class="col-md-8 px-0">
-      <div class="listing-form-view-height px-2 py-2">
+      <div class="px-2 py-2">
         <div class="bg-white basic-form card-shadow rounded pt-4 pb-4 px-4">
           <h5 class="text-brand fw-bold">Add images</h5>
           <p class="mb-2 text-gray">Add high quality images that visually describe this listing.</p>

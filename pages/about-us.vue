@@ -60,7 +60,7 @@
 
 <style scoped>
 .about-us-header-banner{
-  background-image: url('/images/frontend/about-us/about-us-banner.png');
+  background-image: url('/images/frontend/about-us/about-us-banner.webp');
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: cover;
