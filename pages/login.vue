@@ -28,7 +28,7 @@
                       <NuxtLink to="#" style="font-size: 15px" class="style-none"><span class="text-gray hover-brand">Forgot Password?</span></NuxtLink>
                     </div>
                   </div>
-                  <div><button class="rounded-fill-btn d-block text-center py-1 mt-4 rounded-2">Sign In</button></div>
+                  <div><button class="rounded-fill-btn d-block text-center py-1 mt-4 rounded-2 w-100">Sign In</button></div>
                   <p class="mb-0 mt-4">By proceeding, I agree to DoTasks's <span><NuxtLink to="#" class="text-brand hover-lime">Terms & Conditions, Community Guidelines,</NuxtLink></span> & <span><NuxtLink to="#" class="text-brand hover-lime">Privacy Policy</NuxtLink></span></p>
                   <div class="mt-4">
                     <hr>
